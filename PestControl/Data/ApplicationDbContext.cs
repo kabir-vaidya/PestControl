@@ -14,4 +14,3 @@ public class ApplicationDbContext : ApiAuthorizationDbContext<ApplicationUser>
 
     }
 }
-
